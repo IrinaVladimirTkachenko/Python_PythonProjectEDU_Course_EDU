@@ -1,0 +1,7 @@
+class Apple:
+	def __init__ (self, w, c, s, p):
+		self.weight = w
+		self.color = c
+		self.sort = s
+		self.price = p
+		print ("Создано!")
